@@ -1,4 +1,5 @@
 ![C++ logotype](https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png)
+<br/>
 ![Release Date: may/22](https://img.shields.io/badge/release%20date-may%2F2022-yellow)
 # Hi,
 
